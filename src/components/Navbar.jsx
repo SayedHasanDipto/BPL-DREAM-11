@@ -12,7 +12,7 @@ const Navbar = () => {
                     </a>
                 </div>
                 <div className="flex items-center gap-12">
-                    <ul className='flex gap-12'>
+                    <ul className='hidden md:flex gap-12'>
                         <li><a href="/">Home</a></li>
                         <li><a href="/Fixture">Fixture</a></li>
                         <li><a href="/Teams">Teams</a></li>
