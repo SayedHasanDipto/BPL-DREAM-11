@@ -1,0 +1,62 @@
+[
+    {
+        "playerName": "Virat Kohli",
+        "playerCountry": "India",
+        "playerType": "Batsman",
+        "rating": 9.5,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm medium",
+        "price": 1500000,
+        "playerImg": "https://i.ibb.co.com/m5spdMnJ/image.png"
+    },
+    {
+        "playerName": "Joe Root",
+        "playerCountry": "England",
+        "playerType": "Batsman",
+        "rating": 9.2,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": 1400000,
+        "playerImg": "https://i.pinimg.com/736x/df/89/7e/df897e5f2a813a0c6247f2186ac9cc6b.jpg"
+    },
+    {
+        "playerName": "Babar Azam",
+        "playerCountry": "Pakistan",
+        "playerType": "Batsman",
+        "rating": 9.3,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": 1450000,
+        "playerImg": "https://i.pinimg.com/1200x/e6/ff/21/e6ff21652444c6368866c18ff2766567.jpg"
+    },
+    {
+        "playerName": "Ben Stokes",
+        "playerCountry": "England",
+        "playerType": "All-rounder",
+        "rating": 9.4,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Right-arm fast-medium",
+        "price": 1600000,
+        "playerImg": "https://i.ibb.co.com/hJQsWTR2/image.png"
+    },
+    {
+        "playerName": "Shakib Al Hasan",
+        "playerCountry": "Bangladesh",
+        "playerType": "All-rounder",
+        "rating": 9.1,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Left-arm orthodox",
+        "price": 1300000,
+        "playerImg": "https://i.ibb.co.com/s99XQqBY/image.png"
+    },
+    {
+        "playerName": "Pat Cummins",
+        "playerCountry": "Australia",
+        "playerType": "Bowler",
+        "rating": 9.0,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm fast",
+        "price": 1350000,
+        "playerImg": "https://i.ibb.co.com/5XHT3mK4/image.png"
+    }
+]
